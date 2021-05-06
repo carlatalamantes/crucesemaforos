@@ -1,0 +1,4 @@
+Running: xsim.dir/cruceSemaforosTB_behav/xsimk.exe -simmode gui -wdb cruceSemaforosTB_behav.wdb -simrunnum 0 -socket 49849
+Design successfully loaded
+Design Loading Memory Usage: 6380 KB (Peak: 6380 KB)
+Design Loading CPU Usage: 93 ms

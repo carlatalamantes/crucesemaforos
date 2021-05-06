@@ -1,0 +1,1 @@
+-wto "6d930d2b19bd4bdbac107e7998b7e46c" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "cruceSemaforosTB_behav" "xil_defaultlib.cruceSemaforosTB" "xil_defaultlib.glbl" -log "elaborate.log" 
